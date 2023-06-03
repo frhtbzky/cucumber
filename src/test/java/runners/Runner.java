@@ -84,6 +84,10 @@ public class Runner {
 
       dryRun = false default degerdir ve testleri normal olarak
       calistirmamizi saglar
+
+
+
+      that s it
      */
 
 
