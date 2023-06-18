@@ -40,4 +40,10 @@ public class AmazonPage {
     public WebElement aramaSonucuElementi;
 
 
+
+    @FindBy(xpath = "(//div[@class='a-section aok-relative s-image-square-aspect'])[1]")
+    public WebElement ilkUrunElementi;
+
+    @FindBy(xpath = "//*[@class='a-size-large product-title-word-break']")
+    public  WebElement ilkUrunIsimElementi;
 }

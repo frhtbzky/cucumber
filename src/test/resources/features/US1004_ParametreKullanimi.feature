@@ -17,7 +17,6 @@ Feature: US1004 Steplerde parametre kullanilabilmeli
     Given Kullanici "amazonUrl" ana sayfaya gider
     When "Java" icin arama yapar
     Then Arama sonuclarinin "Java" icerdigini test eder
-    And 3 saniye bekler
     And Sayfayi kapatir
 
 
