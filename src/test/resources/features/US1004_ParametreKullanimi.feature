@@ -11,7 +11,7 @@ Feature: US1004 Steplerde parametre kullanilabilmeli
 
 
 
-  @regression
+  @regression @ss
   Scenario: TC09 Amazon Java Testi
 
     Given Kullanici "amazonUrl" ana sayfaya gider
